@@ -28,7 +28,7 @@ install:
   - npm i
 
 script:
-  - node master
+  - node index
 branches:
   only:
     - master
